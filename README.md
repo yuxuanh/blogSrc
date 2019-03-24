@@ -1,6 +1,6 @@
 # blogSrc
 - This is the src code for https://github.com/yuxuanh/yuxuanh.github.io
-- link: https://github.com/yuxuanh/yuxuanh.github.io
+- link: https://yuxuanh.github.io/
 
 ```cmd
 npm install hexo -g
