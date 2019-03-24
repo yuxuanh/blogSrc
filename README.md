@@ -3,8 +3,6 @@
 - link: https://yuxuanh.github.io/
 
 ```cmd
-npm install hexo -g
-hexo init
 npm install
 hexo g
 hexo s
