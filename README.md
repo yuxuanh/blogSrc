@@ -23,3 +23,16 @@ hexo n = hexo new
   
 ## More
 https://hexo.io/docs/
+
+## New Page
+-hexo new page "test"
+-然后模范hello world来加标签和写文章
+-图片放在/source/images下面，然后文章引用
+```html
+<img src="/images/tian_kong_zhi_cheng.jpg">
+```
+生成静态html和发布：hexo g -d
+
+## Edit social icon in index page
+edit themes\hexo-theme-matery\_config.yml and themes\hexo-theme-matery/layout/_partial/social-link.ejs
+https://github.com/blinkfox/hexo-theme-matery#modify-social-links
