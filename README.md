@@ -24,8 +24,8 @@ hexo n = hexo new
 ## More
 https://hexo.io/docs/
 
-## New Page
--hexo new page "test"
+## New Post
+-hexo new post "test"
 -然后模范hello world来加标签和写文章
 -图片放在/source/images下面，然后文章引用
 ```html
