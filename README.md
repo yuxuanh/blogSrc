@@ -34,5 +34,6 @@ https://hexo.io/docs/
 生成静态html和发布：hexo g -d
 
 ## Edit social icon in index page
-edit themes\hexo-theme-matery\_config.yml and themes\hexo-theme-matery/layout/_partial/social-link.ejs
+edit themes\hexo-theme-matery\_config.yml socialLink
+and themes\hexo-theme-matery/layout/_partial/social-link.ejs 
 https://github.com/blinkfox/hexo-theme-matery#modify-social-links
