@@ -28,6 +28,12 @@
     </a>
 <% } %>
 
+<% if (theme.socialLink.gitee) { %>
+     <a href="<%= theme.socialLink.gitee %>" class="tooltipped" target="_blank" data-tooltip="gitee码云博客" data-position="top" data-delay="50">
+        <i class="fa fa-medium"></i>
+    </a>
+<% } %>
+
 <% if (config.feed && config.feed.path == 'atom.xml') { %>
     <a href="<%- url_for('/atom.xml') %>" class="tooltipped" target="_blank" data-tooltip="RSS 订阅" data-position="top" data-delay="50">
         <i class="fa fa-rss"></i>
