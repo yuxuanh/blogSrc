@@ -34,6 +34,7 @@ https://hexo.io/docs/
 生成静态html和发布：hexo g -d
 
 ## Edit social icon in index page
-edit themes/hexo-theme-matery/_config.yml socialLink
-and themes/hexo-theme-matery/layout/_partial/social-link.ejs 
+edit themes/hexo-theme-matery/_config.yml socialLink  
+and themes/hexo-theme-matery/layout/_partial/social-link.ejs  
 https://github.com/blinkfox/hexo-theme-matery#modify-social-links
+the icon is using http://www.fontawesome.com.cn/ v4.7, ctrl-F to find icon in http://www.fontawesome.com.cn/faicons/
